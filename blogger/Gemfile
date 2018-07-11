@@ -6,6 +6,8 @@ ruby '2.3.4'
 #my added stuff
 gem "paperclip"
 
+gem 'sorcery'
+
 
 
 
